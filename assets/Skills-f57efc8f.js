@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o as s,c}from"./index-c689b663.js";const o={},t={class:"flex z-10 self-center"};function r(n,a){return s(),c("div",t," asdas ")}const l=e(o,[["render",r]]);export{l as default};
