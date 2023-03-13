@@ -1,4 +1,4 @@
-import{_ as Yt}from"./_plugin-vue_export-helper-c27b6911.js";import{o as _e,c as ke,p as Jt,f as Kt,a as S,j as pr,d as hr,k as Zn,b as Ct,r as gr,w as yr}from"./index-a693cbbb.js";const vr={},mr=X=>(Jt("data-v-939aaf8f"),X=X(),Kt(),X),xr=mr(()=>S("h1",{style:{"--color":"black"},class:"text-4xl text-primary font-serif mb-7 max-sm:text-2xl"},null,-1)),br=[xr];function wr(X,j){return _e(),ke("div",null,br)}const Cr=Yt(vr,[["render",wr],["__scopeId","data-v-939aaf8f"]]);var Gt={},Tr={get exports(){return Gt},set exports(X){Gt=X}};/*!
+import{_ as Yt}from"./_plugin-vue_export-helper-c27b6911.js";import{o as _e,c as ke,p as Jt,f as Kt,a as S,j as pr,d as hr,k as Zn,b as Ct,r as gr,w as yr}from"./index-3b7b5ded.js";const vr={},mr=X=>(Jt("data-v-939aaf8f"),X=X(),Kt(),X),xr=mr(()=>S("h1",{style:{"--color":"black"},class:"text-4xl text-primary font-serif mb-7 max-sm:text-2xl"},null,-1)),br=[xr];function wr(X,j){return _e(),ke("div",null,br)}const Cr=Yt(vr,[["render",wr],["__scopeId","data-v-939aaf8f"]]);var Gt={},Tr={get exports(){return Gt},set exports(X){Gt=X}};/*!
  * jQuery JavaScript Library v3.6.3
  * https://jquery.com/
  *
