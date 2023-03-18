@@ -1,1 +1,0 @@
-import{T as e}from"./Tabs-538c0ac7.js";import{k as s,o as a,c as t,a as o,b as c}from"./index-35701609.js";import"./_plugin-vue_export-helper-c27b6911.js";const r={class:"flex self-center z-10 pl-16 w-full max-lg:px-4 max-lg:flex-wrap"},l={class:"w-2/4"},d=s({__name:"Test",setup(n){return(p,_)=>(a(),t("div",r,[o("div",l,[c(e)])]))}});export{d as default};
