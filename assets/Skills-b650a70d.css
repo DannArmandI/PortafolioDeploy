@@ -1,0 +1,1 @@
+.three h1{padding-bottom:15px;position:relative}.three h1:before{content:"";position:absolute;left:0;bottom:0;height:5px;width:55px;background-color:#757575}.three h1:after{content:"";position:absolute;left:0;bottom:2px;height:1px;width:95%;max-width:455px;background-color:#757575}
